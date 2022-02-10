@@ -1,6 +1,6 @@
 ## Skills
   * Python
-  * Pandas,
+  * Pandas
   * SQL
 
 Self-education
