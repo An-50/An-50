@@ -4,4 +4,4 @@
   * SQL
 
 Self-education
-  * Yandex.Prakticum Data Analytics
+  * Yandex.Practicum Data Analytics
