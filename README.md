@@ -4,4 +4,4 @@
   * SQL
 
 Self-education
-  * Yandex.Praktikum Data Scientist
+  * Yandex.Praktikum Data Analis
